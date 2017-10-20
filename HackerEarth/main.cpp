@@ -1,6 +1,8 @@
 #include <iostream>
+#include "BitManipulation.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    BitManipulation p;
+    p.run();
+    return 1;
 }

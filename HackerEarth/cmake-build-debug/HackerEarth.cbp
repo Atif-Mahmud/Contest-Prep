@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/atifmahmud/CLionProjects/HackerEarth/BitManipulation.h">
+			<Option target="HackerEarth"/>
+		</Unit>
 		<Unit filename="/home/atifmahmud/CLionProjects/HackerEarth/main.cpp">
 			<Option target="HackerEarth"/>
 		</Unit>
