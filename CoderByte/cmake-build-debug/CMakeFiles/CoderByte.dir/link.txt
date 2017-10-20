@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CoderByte.dir/main.cpp.o  -o CoderByte 

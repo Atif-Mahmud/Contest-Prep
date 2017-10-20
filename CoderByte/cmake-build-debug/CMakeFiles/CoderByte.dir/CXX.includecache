@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atifmahmud/CLionProjects/CoderByte/factorial.h
+iostream
+-
+
+/home/atifmahmud/CLionProjects/CoderByte/main.cpp
+factorial.h
+/home/atifmahmud/CLionProjects/CoderByte/factorial.h
+

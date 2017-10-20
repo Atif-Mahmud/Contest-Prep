@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HackerEarth.dir/main.cpp.o  -o HackerEarth 
