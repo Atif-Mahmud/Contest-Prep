@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atifmahmud/CLionProjects/TopCoderPowerUp/SRM208.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/atifmahmud/CLionProjects/TopCoderPowerUp/SRM236.h
+iostream
+-
+vector
+-
+string
+-
+
+/home/atifmahmud/CLionProjects/TopCoderPowerUp/main.cpp
+SRM236.h
+/home/atifmahmud/CLionProjects/TopCoderPowerUp/SRM236.h
+SRM208.h
+/home/atifmahmud/CLionProjects/TopCoderPowerUp/SRM208.h
+

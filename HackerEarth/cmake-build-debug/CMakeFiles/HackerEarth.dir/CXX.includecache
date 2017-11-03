@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atifmahmud/CLionProjects/HackerEarth/BitManipulation.h
+iostream
+-
+
+/home/atifmahmud/CLionProjects/HackerEarth/main.cpp
+iostream
+-
+BitManipulation.h
+/home/atifmahmud/CLionProjects/HackerEarth/BitManipulation.h
+
